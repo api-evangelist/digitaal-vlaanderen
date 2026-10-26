@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Digitaal Vlaanderen is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://www.vlaanderen.be/digitaal-vlaanderen
+Digitaal Vlaanderen is a digital government initiative of the Flemish region of Belgium, aiming to provide digital transformation services and platforms for public administrations and local governments. Its mission is to create a collaborative, modern public sector that works for everyone, offering expertise, tools, and support for digital projects across the region.
+
+**Areas:** Company · Government · DigitalTransformation · Belgium · PublicSector
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.vlaanderen.be/digitaal-vlaanderen)
+- [Documentation](https://doc.vlaanderen.be/)
+- [Security](https://yeswehack.com/programs/digital-flanders-vulnerability-disclosure-program)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/digitaal-vlaanderen/](https://apis.io/providers/digitaal-vlaanderen/).
